@@ -2,10 +2,8 @@ import random
 
 
 def sumoProduct(l1, l2):
-    ##################################################
-    # make your code
-    ##################################################
-
+    result = 0
+    return result
 
 numbers1 = [5, 3, 1, 1, 2]
 numbers2 = [1, 2, 2, 9, 5]

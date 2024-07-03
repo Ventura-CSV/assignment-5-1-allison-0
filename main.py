@@ -3,6 +3,8 @@ import random
 
 def sumoProduct(l1, l2):
     result = 0
+    for i in range(len(l1)):
+        result += l1[i] * l2[i]
     return result
 
 numbers1 = [5, 3, 1, 1, 2]
